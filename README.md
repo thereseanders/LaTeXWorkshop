@@ -1,4 +1,4 @@
-# LaTeXWorkshop
+# LaTeX Workshop
 The workshop is geared toward PhD students who are interested in using LaTeX for their dissertations, class papers, or journal submissions. The course consists of two parts, a presentation and a practical application.
 
 **Presentation**
@@ -23,4 +23,3 @@ The presentation is followed by short lab in which we will go over an *article* 
 
 1. Ceate an [Overleaf](https://www.overleaf.com) account.
 2. Download the *template* folder from Github.
-2. Upload the *template* folder to [Overleaf](https://www.overleaf.com).

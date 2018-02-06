@@ -6,7 +6,7 @@ The workshop is geared toward PhD students who are interested in using LaTeX for
     * Typography
     * Separation of content and presentation
     * Integration of graphs and tables
-    * Math typesetting
+    * Math typesetting and formal presentation
 2. Challenges
     * Co-authoring
     * Journal submission

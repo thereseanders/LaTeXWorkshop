@@ -1,0 +1,15 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Why bother learning {\LaTeX }}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Typography}{16}{0}{2}
+\beamer@subsectionintoc {2}{2}{Separation of content and presentation}{23}{0}{2}
+\beamer@subsectionintoc {2}{3}{Integration of data from other sources}{26}{0}{2}
+\beamer@subsectionintoc {2}{4}{Math typesetting and formal presentation}{33}{0}{2}
+\beamer@sectionintoc {3}{Challenges}{40}{0}{3}
+\beamer@subsectionintoc {3}{1}{Steep Learning Curve}{41}{0}{3}
+\beamer@subsectionintoc {3}{2}{Collaboration and journal submission}{42}{0}{3}
+\beamer@subsectionintoc {3}{3}{Miscellaneous}{46}{0}{3}
+\beamer@sectionintoc {4}{Structure and compiling}{48}{0}{4}
+\beamer@subsectionintoc {4}{1}{Structure of a {\LaTeX } document}{49}{0}{4}
+\beamer@subsectionintoc {4}{2}{Compiling documents}{52}{0}{4}
+\beamer@sectionintoc {5}{Bibliographies}{60}{0}{5}
